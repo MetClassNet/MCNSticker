@@ -1,6 +1,6 @@
-# Stickers for some IPB groups, Tools and Databases
+# Stickers for MetClassNet related things
 
-This repository contains stickers for some IPB groups, Tools and Databases.
+This repository contains stickers for MetClassNet sub-projects, packages and people.
 
 ## People Stickers:
 
