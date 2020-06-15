@@ -11,6 +11,7 @@ This repository contains stickers for MetClassNet sub-projects, packages and peo
 ## People Stickers:
 
 <p align = "left">
+<a href="people/README.md"><img src="people/mwitting.png" height="100"></a>
 <a href="people/README.md"><img src="people/sneumann.png" height="100"></a>
 <a href="people/README.md"><img src="people/RezaHEX.png" height="100"></a>
 </p>

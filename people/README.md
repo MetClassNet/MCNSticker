@@ -7,6 +7,7 @@
   share and adapt.
 
 <p align = "left">
+<img src="./mwitting.png" height="200">
 <img src="./sneumann.png" height="200">
 <img src="./RezaHEX.png" height="200">
 </p>
