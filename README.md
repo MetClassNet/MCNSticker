@@ -2,6 +2,12 @@
 
 This repository contains stickers for MetClassNet sub-projects, packages and people.
 
+## Project Stickers:
+
+<p align = "left">
+<a href="project/README.md"><img src="project/metclassnet.png" height="100"></a>
+</p>
+
 ## People Stickers:
 
 <p align = "left">
