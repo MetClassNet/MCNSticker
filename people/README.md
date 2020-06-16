@@ -12,7 +12,8 @@
 <img src="./sscharfenberg.png" height="200">
 <img src="./mwitting.png" height="200">
 <img src="./sneumann.png" height="200">
-<img src="./RezaHEX.png" height="200">
+<img src="./rsalek.png" height="200">
+<!-- <img src="./RezaHEX.png" height="200"> -->
 </p>
 
 The sticker was generated using InkScape, based on the BASDA Sticker by Steffen Neumann.
