@@ -185,12 +185,12 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="7.3151652"
-     inkscape:cx="88.290795"
+     inkscape:cx="63.342623"
      inkscape:cy="53.237125"
      inkscape:window-x="72"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" /><g
+     inkscape:current-layer="g10" /><g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Background"
@@ -220,7 +220,7 @@
      style="display:inline"><path
        inkscape:connector-curvature="0"
        id="path34"
-       style="fill:#800000;fill-opacity:0.94117647;fill-rule:nonzero;stroke:none"
+       style="fill:#009cde;fill-opacity:0.94117647;fill-rule:nonzero;stroke:none"
        d="m 0,109.0332 v -71.745 l 62.28,-35.872 62.28,35.872 v 71.745 l -62.28,35.872 z m 4.844,-68.945 v 66.145 l 57.436,33.082 57.436,-33.082 V 40.0882 L 62.28,7.0062 Z" /></g><g
      inkscape:groupmode="layer"
      id="layer5"
@@ -239,6 +239,7 @@
      id="tspan1145"
      x="-16.125662"
      y="187.45607">amaraa@fellows.iarc.fr</tspan></text>
+
 
 
 

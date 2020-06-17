@@ -13,12 +13,13 @@ This repository contains stickers for MetClassNet sub-projects, packages and peo
 <p align = "left">
 <a href="people/README.md"><img src="people/fjourdan.png" height="100"></a>
 <a href="people/README.md"><img src="people/cfrainay.png" height="100"></a>
-<a href="people/README.md"><img src="people/aamara.png" height="100"></a>
-<a href="people/README.md"><img src="people/sscharfenberg.png" height="100"></a>
-<a href="people/README.md"><img src="people/mwitting.png" height="100"></a>
-<a href="people/README.md"><img src="people/sneumann.png" height="100"></a>
 <a href="people/README.md"><img src="people/rsalek.png" height="100"></a>
 <!-- <a href="people/README.md"><img src="people/RezaHEX.png" height="100"></a> -->
+<a href="people/README.md"><img src="people/aamara.png" height="100"></a>
+<a href="people/README.md"><img src="people/mwitting.png" height="100"></a>
+<a href="people/README.md"><img src="people/lsalzer.png" height="100"></a>
+<a href="people/README.md"><img src="people/sneumann.png" height="100"></a>
+<a href="people/README.md"><img src="people/sscharfenberg.png" height="100"></a>
 </p>
 
 ## Stickers for *events*
