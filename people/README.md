@@ -9,6 +9,7 @@
 <p align = "left">
 <img src="./fjourdan.png" height="200">
 <img src="./cfrainay.png" height="200">
+<img src="./enovoa.png" height="200">
 <img src="./rsalek.png" height="200">
 <img src="./aamara.png" height="200">
 <img src="./mwitting.png" height="200">

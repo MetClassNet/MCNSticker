@@ -13,6 +13,7 @@ This repository contains stickers for MetClassNet sub-projects, packages and peo
 <p align = "left">
 <a href="people/README.md"><img src="people/fjourdan.png" height="100"></a>
 <a href="people/README.md"><img src="people/cfrainay.png" height="100"></a>
+<a href="people/README.md"><img src="people/enovoa.png" height="200"></a>
 <a href="people/README.md"><img src="people/rsalek.png" height="100"></a>
 <!-- <a href="people/README.md"><img src="people/RezaHEX.png" height="100"></a> -->
 <a href="people/README.md"><img src="people/aamara.png" height="100"></a>
